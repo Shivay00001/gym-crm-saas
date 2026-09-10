@@ -26,3 +26,8 @@ A production-ready, multi-tenant Gym CRM built with Next.js 14, Supabase, and Ta
 3. **Run Locally**: `npm run dev`.
 
 See [DEPLOYMENT.md](DEPLOYMENT.md) for full setup and deployment instructions.
+
+
+## Prerequisites
+- Required environment and dependencies
+
