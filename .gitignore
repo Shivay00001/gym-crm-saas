@@ -24,3 +24,7 @@ build/
 *.spec
 *.db
 *.sqlite3
+
+# Next.js build output
+.next/
+*.tsbuildinfo
