@@ -7,7 +7,7 @@ import { formatCurrency } from '@/lib/utils/formatters'
 import { useRouter } from 'next/navigation'
 import { calculateMembershipEndDate } from '@/lib/utils/dates'
 
-export default function RenewLink({ gymId }: { gymId: string }) {
+function RenewLink({ gymId }: { gymId: string }) {
     const router = useRouter()
     return (
         <button
