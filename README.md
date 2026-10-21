@@ -19,6 +19,14 @@ A production-ready, multi-tenant Gym CRM built with Next.js 14, Supabase, and Ta
 - **Styling**: Tailwind CSS
 - **State**: React Context + Server Components
 
+## Beyond the CRM: never miss a lead call
+
+Gyms lose trial bookings when nobody picks up the phone during training hours. This CRM's
+WhatsApp retention system pairs well with an AI front desk:
+
+- [AI receptionist service](https://visionquantech.com/blog/ai-receptionist-service.html) — answers every call 24/7, books trial sessions, follows up on no-shows.
+- [WhatsApp AI chatbot](https://visionquantech.com/whatsapp-ai-chatbot.html) — instant replies, class reminders, and membership renewals on WhatsApp.
+
 ## Getting Started
 
 1. **Setup Database**: Run `supabase/schema.sql` in your Supabase SQL Editor.
