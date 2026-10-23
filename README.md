@@ -27,6 +27,7 @@ WhatsApp retention system pairs well with an AI front desk:
 - [AI receptionist service](https://visionquantech.com/blog/ai-receptionist-service.html) — answers every call 24/7, books trial sessions, follows up on no-shows.
 - [WhatsApp AI chatbot](https://visionquantech.com/whatsapp-ai-chatbot.html) — instant replies, class reminders, and membership renewals on WhatsApp.
 
+- [AI voice agents](https://visionquantech.com/ai-voice-agents.html) — answers every call 24/7, books trial sessions, handles class-schedule questions.
 ## Getting Started
 
 1. **Setup Database**: Run `supabase/schema.sql` in your Supabase SQL Editor.
